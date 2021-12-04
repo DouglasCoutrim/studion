@@ -1,0 +1,27 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "Home page for a project of a course on imagine school",
+  "main": " src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DouglasCoutrim/studion.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JAVASCRIPT"
+  ],
+  "author": "Douglas Coutrim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DouglasCoutrim/studion/issues"
+  },
+  "homepage": "https://github.com/DouglasCoutrim/studion#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
